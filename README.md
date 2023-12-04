@@ -2,8 +2,7 @@
 Auto Clicker Using Python
 
 ## This is a script that allows you to click your mouse repeatedly with a small delay. It works on Windows, Mac and Linux and can be controlled with user-defined keys.
-
-  pip install pynput
+    pip install pynput
 
 ## Using the Script
 To use this script set the variables at the top to what you want.
