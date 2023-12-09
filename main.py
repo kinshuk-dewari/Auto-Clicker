@@ -6,6 +6,7 @@ from pynput.keyboard import Listener, KeyCode
 
 delay = 3
 button = Button.left
+# change these value to change the starting or ending keys 
 start_stop_key = KeyCode(char='s')
 exit_key = KeyCode(char='e')
 
